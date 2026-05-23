@@ -1,0 +1,31 @@
+trip id,Nama Kapal,Tanggal Berangkat,Latitude,Longitude
+TRP001,KM Samudra Jaya 01,3/1/2026,-5.12,106.81
+TRP002,Samudra Jaya 1,3/2/2026,-5.2,106.75
+TRP003,KM. Laut Biru II,3/3/2026,-6.01,107.12
+TRP004,Laut Biru 2,3/4/2026,-6.1,107.2
+TRP005,KM Nusantara Raya,3/5/2026,-4.95,108.11
+TRP006,KM Nusantara Raya,3/6/2026,-4.9,108.05
+TRP007,KM Samudera Timur,3/7/2026,-5.55,109.2
+TRP008,Samudera Timur,3/8/2026,-5.6,109.15
+TRP009,KM Bahari Sejahtera,3/9/2026,-6.25,110.02
+TRP010,Bahari Sejahtera,3/10/2026,-6.3,110.1
+TRP011,KM Laut Selatan,3/11/2026,-5.8,111.25
+TRP012,Laut Selatan 01,3/12/2026,-5.9,111.15
+TRP013,KM Mina Nusantara,3/13/2026,-4.75,112
+TRP014,Mina Nusantara,3/14/2026,-4.8,112.1
+TRP015,KM Bahtera Laut,3/15/2026,-5.4,113.25
+TRP016,Bahtera Laut II,3/16/2026,-5.5,113.35
+TRP017,KM Samudra Abadi,3/17/2026,-6.15,114.2
+TRP018,Samudra Abadi,3/18/2026,-6.05,114.1
+TRP019,KM Laut Makmur,3/19/2026,-5.7,115
+TRP020,Laut Makmur,3/20/2026,-5.75,115.1
+TRP021,KM Samudra Jaya 01,3/21/2026,-5.18,106.9
+TRP022,KM Laut Biru II,3/22/2026,-6.08,107.28
+TRP023,KM Nusantara Raya,3/23/2026,-4.85,108.18
+TRP024,KM Samudera Timur,3/24/2026,-5.62,109.22
+TRP025,KM Bahari Sejahtera,3/25/2026,-6.28,110.2
+TRP026,KM Laut Selatan,3/26/2026,-5.88,111.3
+TRP027,KM Mina Nusantara,3/27/2026,-4.7,112.12
+TRP028,KM Bahtera Laut,3/28/2026,-5.45,113.4
+TRP029,KM Samudra Abadi,3/29/2026,-6.1,114.18
+TRP030,KM Laut Makmur,3/30/2026,999,115.2
